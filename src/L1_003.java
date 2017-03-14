@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 个位数统计 {
+public class L1_003 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -22,7 +22,7 @@ public class 个位数统计 {
 /*
 
 import java.util.Scanner;
-public class 个位数统计 {
+public class L1_003 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[] a = new int[10];

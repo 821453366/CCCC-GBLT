@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by pc on 17-3-9.
  */
-public class 出租 {
+public class L1_027 {
     public static void main (String[] agrs){
         String arr="";
         int b=0;

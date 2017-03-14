@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by pc on 17-3-8.
  */
-public class 正整数A加B {
+public class L1_025 {
 /*L1-1 正整数A+B*/
     public static void main (String [] args){
         int i_a=0,i_b=0,i_c=0;

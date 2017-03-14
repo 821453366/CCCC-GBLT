@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-/**考试座位号
+/**L1_005
  * Created by pc on 17-3-12.
  */
-public class 考试座位号 {
+public class L1_005 {
     public static void main (String[] args){
         Scanner input = new Scanner (System.in);
         int a=input.nextInt();

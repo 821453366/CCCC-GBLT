@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**求整数段和
  * Created by pc on 17-3-12.
  */
-public class L1008 {
+public class L1_008 {
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
         int i_begin = input .nextInt();

@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by pc on 17-3-12.
  */
-public class 计算摄氏温度 {
+public class L1_004 {
     public static void main (String [] args){
         Scanner input = new Scanner(System.in);
         int i_f = input .nextInt();
